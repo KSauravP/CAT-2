@@ -1,0 +1,20 @@
+<Christ>
+  <Computer-Science>
+    <Stu-name>Manish</Stu-name>
+    <stu-uni>Christ</stu-uni>
+    <stu-pho>986547125</stu-pho>
+    <stu-email>manish@christuniversity.in</stu-email>
+  </Computer-Science>
+   <Computer-Science>
+    <Stu-name>Sachin</Stu-name>
+    <stu-uni>Christ</stu-uni>
+    <stu-pho>987654320</stu-pho>
+    <stu-email>sachin@christuniversity.in</stu-email>
+  </Computer-Science>
+   <Computer-Science>
+    <Stu-name>Govind</Stu-name>
+    <stu-uni>Christ</stu-uni>
+    <stu-pho>987654210</stu-pho>
+    <stu-email>govind@christuniversity.in</stu-email>
+  </Computer-Science>
+</Christ>
